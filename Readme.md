@@ -12,6 +12,9 @@
 go run consumer.go
 ```
 - Second you can publish queues to consume.So that process will be finished successfully
+```
+go run main.go
+```
 
 <img src="/rabbitmq-ss.png" alt="Alt text" title="Rabbitmq ss" width="800">
 
